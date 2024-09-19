@@ -56,6 +56,10 @@ kubectl apply -f deploy/deploy-consumer.yaml
 
 ![alt text](<Screenshot from 2024-09-19 14-02-25.png>)
 
+#### Rabbitmq UI (to see it kubectl port-forward service/rabbitmq 3000:15672)
+![image](https://github.com/user-attachments/assets/9b884be2-0338-44a8-abc2-72eca56d0d0b)
+
+
 
 ### Publishing messages to the queue
 
